@@ -1,0 +1,10 @@
+{
+  "name": "@magicboard/prompts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./lesson/*": "./lesson/*",
+    "./derivatives/*": "./derivatives/*"
+  }
+}

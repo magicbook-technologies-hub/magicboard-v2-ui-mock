@@ -1,0 +1,559 @@
+{
+  "lessonPlan": {
+    "lessonInfo": {
+      "subject": "Ciências",
+      "topic": "Introdução à Fotossíntese",
+      "grade": "5",
+      "gradeLabel": "5º Ano",
+      "durationMinutes": 50,
+      "durationBand": "longa",
+      "complexity": "standard",
+      "teachingMethod": "inquiry-based learning",
+      "language": "Portuguese",
+      "lessonType": "Practical",
+      "adaptabilityMode": "standard"
+    },
+    "curriculum": {
+      "framework": "BNCC",
+      "educationStage": "Ensino Fundamental — Anos Iniciais",
+      "gradeLabel": "5º Ano",
+      "bimestre": null,
+      "lessonSequence": null,
+      "thematicUnit": "Vida e evolução",
+      "objectOfKnowledge": "Plantas e necessidades básicas para a produção de alimento",
+      "generalCompetencies": [
+        "Conhecimento científico para compreender o mundo natural",
+        "Pensamento científico, crítico e criativo",
+        "Comunicação de ideias com evidências"
+      ],
+      "specificCompetencies": [
+        "Identificar processos vitais das plantas e relacioná-los ao ambiente",
+        "Explicar a produção de alimento pelas plantas a partir de evidências"
+      ],
+      "skills": [
+        {
+          "code": null,
+          "description": "Descrever o processo de fotossíntese e seus componentes essenciais"
+        },
+        {
+          "code": null,
+          "description": "Relacionar luz, água e ar à produção de oxigênio e alimento nas plantas"
+        }
+      ],
+      "expectedLearning": [
+        "Explicar com próprias palavras o que a planta precisa para fazer fotossíntese",
+        "Identificar entradas e saídas no diagrama (CO2, H2O, luz → O2, glicose)",
+        "Registrar uma observação ou previsão em tabela simples"
+      ]
+    },
+    "teacherPlanning": {
+      "prerequisites": [
+        "Plantas são seres vivos",
+        "Plantas precisam de água e luz",
+        "Ar contém gases"
+      ],
+      "successCriteria": [
+        "Students are successful when they can name the inputs of photosynthesis",
+        "Students are successful when they can explain why leaves are important",
+        "Students are successful when they can complete a simple input→output diagram",
+        "Students are successful when they can justify one everyday example"
+      ],
+      "learningEvidence": [
+        "Diagrama preenchido",
+        "Respostas Q1–Q3",
+        "Tabela de observação do experimento"
+      ],
+      "teacherObservation": [
+        "Participação",
+        "Concepções erradas sobre 'plantas comem terra'",
+        "Vocabulário acadêmico (clorofila, glicose, oxigênio)",
+        "Colaboração em grupo",
+        "Raciocínio baseado em evidência"
+      ],
+      "studentProducts": [
+        "Ficha de observação: previsão → evidência → conclusão"
+      ],
+      "assessmentRubric": {
+        "beginning": "Nomeia 1 entrada; diagrama incompleto",
+        "developing": "Nomeia entradas/saídas com apoio; explica parcialmente",
+        "proficient": "Explica o processo e justifica com o diagrama e um exemplo cotidiano"
+      },
+      "commonMisconceptions": [
+        "Plantas 'comem' terra como alimento principal",
+        "Fotossíntese só acontece à noite"
+      ],
+      "academicVocabulary": [
+        "fotossíntese",
+        "clorofila",
+        "glicose",
+        "dióxido de carbono",
+        "oxigênio"
+      ],
+      "crossDisciplinaryLinks": [
+        "Matemática: ler tabela de tempo de exposição à luz"
+      ],
+      "classroomManagement": {
+        "transitions": "Timer de 2 min entre blocos",
+        "grouping": "Pares no experimento; individual no exit check",
+        "cleanup": "Guardar plantas e fichas na bandeja",
+        "timeReminders": "Aviso aos 5 min do fim de cada bloco"
+      },
+      "safetyNotes": [
+        "Não ingerir materiais do experimento",
+        "Cuidado com água perto de tomadas"
+      ],
+      "studentReflectionPrompt": "O que você descobriu hoje sobre como as plantas fazem alimento?",
+      "teacherReflectionPrompt": "Quais concepções erradas ainda persistiram?",
+      "ctsAFocus": "Relacionar fotossíntese à qualidade do ar e espaços verdes na comunidade",
+      "observationSheet": {
+        "prediction": "O que acontece se a planta ficar sem luz?",
+        "observation": "O que você viu/ouviu no experimento?",
+        "evidence": "Qual evidência registra sua conclusão?",
+        "conclusion": "O que a evidência mostra sobre a fotossíntese?"
+      }
+    },
+    "accessibility": {
+      "profiles": [],
+      "planModifications": {
+        "simplifiedLanguage": false,
+        "chunkedInstructions": true,
+        "readingLevelAdjusted": false,
+        "textOnlyVisualAlternatives": true,
+        "audioIndependence": true
+      },
+      "appliedAdaptations": [
+        "Instruções em etapas curtas",
+        "Diagrama com rótulos grandes",
+        "Alternativa textual para imagens"
+      ]
+    },
+    "differentiation": {
+      "supportStudents": [
+        "Banco de palavras ilustrado",
+        "Diagrama parcialmente preenchido"
+      ],
+      "advancedStudents": [
+        "Comparar fotossíntese com respiração celular em uma frase"
+      ],
+      "fastFinishers": [
+        "Criar um cartaz de 'mito vs fato' sobre plantas"
+      ],
+      "multilingualSupport": [
+        "Glossário bilíngue dos 5 termos-chave"
+      ]
+    },
+    "title": {
+      "title": "Magic AI",
+      "description": "Aula prática de Ciências",
+      "content": "Introdução à Fotossíntese"
+    },
+    "objective": {
+      "title": "Objetivos de Aprendizagem",
+      "description": "O que os alunos vão aprender",
+      "content": {
+        "goals": [
+          "Compreender que as plantas produzem alimento usando luz, água e CO2",
+          "Identificar componentes essenciais da fotossíntese em um diagrama",
+          "Explicar por que a luz é necessária para a produção de oxigênio e glicose",
+          "Descrever um exemplo cotidiano ligado a plantas e ar limpo"
+        ],
+        "curriculumHighlight": "Vida e evolução — plantas e necessidades básicas (habilidades descritivas; sem código inventado)"
+      }
+    },
+    "starter": {
+      "id": "starter",
+      "sectionNumber": 2,
+      "title": "Aquecimento / Conectar",
+      "description": "5-7 minutos",
+      "durationMinutes": 6,
+      "sectionObjective": "Ativar ideias prévias e levantar concepções sobre como as plantas 'se alimentam'",
+      "teacherScript": "O Professor Diz: Olhem esta mudinha. Onde ela 'come'? Levantem a mão: a planta se alimenta principalmente da terra, da água ou da luz? Digam por quê.",
+      "body": "Pergunta diagnóstica rápida e registro oral das hipóteses da turma antes de introduzir o termo fotossíntese.",
+      "callouts": [
+        {
+          "type": "pedagogicalTip",
+          "title": "Dica Pedagógica",
+          "text": "Anote as hipóteses no quadro sem corrigir ainda — use-as no fechamento."
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "alt": "Muda verde em vaso",
+          "caption": "Mudinha para provocar curiosidade",
+          "promptHint": "close-up seedling in small pot soft classroom light educational photo",
+          "labels": []
+        }
+      ],
+      "sources": [
+        {
+          "name": "Khan Academy — Plantas",
+          "type": "educational_site",
+          "url": null
+        }
+      ]
+    },
+    "contentDiscovery": {
+      "id": "contentDiscovery",
+      "sectionNumber": 3,
+      "title": "Conteúdo / Descobrir",
+      "description": "15-20 minutos",
+      "durationMinutes": 18,
+      "sectionObjective": "Construir o modelo de entradas e saídas da fotossíntese com diagrama anotado",
+      "teacherScript": "O Professor Diz: A planta não 'come terra' como nós comemos pão. Nas folhas, a clorofila captura luz. Com água e dióxido de carbono, a planta faz glicose (alimento) e libera oxigênio.",
+      "body": "Fotossíntese: processo em que plantas usam luz, água (H2O) e dióxido de carbono (CO2) para produzir glicose e oxigênio (O2). A clorofila nas folhas captura a energia da luz.",
+      "callouts": [
+        {
+          "type": "didYouKnow",
+          "title": "Sabia que?",
+          "text": "O oxigênio que respiramos vem em grande parte da fotossíntese de plantas e algas."
+        },
+        {
+          "type": "commonError",
+          "title": "Erro comum",
+          "text": "Achar que a terra é o 'alimento' principal da planta — o alimento é a glicose produzida na folha."
+        }
+      ],
+      "media": [
+        {
+          "kind": "diagram",
+          "alt": "Diagrama da fotossíntese",
+          "caption": "Entradas: luz, CO2, H2O → Saídas: O2, glicose",
+          "promptHint": "simple labeled photosynthesis diagram for grade 5 CO2 H2O sunlight oxygen glucose",
+          "labels": ["Luz", "CO2", "H2O", "O2", "Glicose", "Folha"]
+        }
+      ],
+      "sources": [
+        {
+          "name": "NASA Climate Kids",
+          "type": "educational_site",
+          "url": null
+        },
+        {
+          "name": "Livro didático de Ciências 5º ano",
+          "type": "textbook",
+          "url": null
+        }
+      ]
+    },
+    "materialsNeeded": {
+      "title": "Materiais Necessários",
+      "description": "Preparação da aula",
+      "content": {
+        "physicalResources": [
+          "Mudinhas ou folhas",
+          "Copos com água",
+          "Fichas de observação",
+          "Cartolina para diagrama"
+        ],
+        "digitalResources": [
+          "Projetor para slides",
+          "Diagrama digital"
+        ],
+        "teacherResources": [
+          "Roteiro do professor",
+          "Rubrica de observação"
+        ],
+        "studentResources": [
+          "Lápis e ficha",
+          "Glossário ilustrado"
+        ]
+      }
+    },
+    "teachingSteps": {
+      "title": "Passos da Aula",
+      "description": "Fluxo da aula",
+      "content": [
+        {
+          "step": 1,
+          "phase": "Understand",
+          "durationMinutes": 10,
+          "teacherActions": [
+            "Revisitar hipóteses do aquecimento",
+            "Guiar preenchimento do diagrama em conjunto"
+          ],
+          "studentActions": [
+            "Completar rótulos do diagrama",
+            "Explicar uma seta para o colega"
+          ],
+          "questions": [
+            "O que entra na folha?",
+            "O que sai da folha?"
+          ],
+          "bloomLevel": "Understand",
+          "teacherScript": "O Professor Diz: Vamos marcar juntas: luz, água e CO2 entram; oxigênio e glicose saem.",
+          "callouts": [],
+          "sources": []
+        },
+        {
+          "step": 2,
+          "phase": "Group Activity",
+          "durationMinutes": 15,
+          "teacherActions": [
+            "Organizar pares para experimento Luz e CO2",
+            "Circular e ouvir previsões"
+          ],
+          "studentActions": [
+            "Registrar previsão e observação na tabela",
+            "Comparar com o diagrama"
+          ],
+          "questions": [
+            "Se diminuirmos a luz, o que deve mudar na produção de oxigênio?"
+          ],
+          "bloomLevel": "Apply",
+          "teacherScript": "O Professor Diz: Em pares, façam a previsão antes de observar. Sem evidência, não concluam.",
+          "callouts": [],
+          "sources": []
+        },
+        {
+          "step": 3,
+          "phase": "Apply",
+          "durationMinutes": 10,
+          "teacherActions": [
+            "Propor desafio cotidiano: praça ou árvore da escola"
+          ],
+          "studentActions": [
+            "Escrever 2 frases ligando plantas e ar",
+            "Compartilhar um exemplo"
+          ],
+          "questions": [
+            "Como uma árvore na frente da escola se relaciona com o ar que respiramos?"
+          ],
+          "bloomLevel": "Analyze",
+          "teacherScript": "O Professor Diz: Usem as palavras clorofila, oxigênio e glicose pelo menos uma vez.",
+          "callouts": [],
+          "sources": []
+        },
+        {
+          "step": 4,
+          "phase": "Consolidate",
+          "durationMinutes": 6,
+          "teacherActions": [
+            "Revisar hipóteses iniciais vs evidências"
+          ],
+          "studentActions": [
+            "Corrigir uma ideia inicial se necessário"
+          ],
+          "questions": [
+            "O que mudou na sua ideia desde o início da aula?"
+          ],
+          "bloomLevel": "Evaluate",
+          "teacherScript": "O Professor Diz: Voltem à pergunta da mudinha. A terra ainda é o 'alimento principal'?",
+          "callouts": [],
+          "sources": []
+        }
+      ]
+    },
+    "activities": {
+      "title": "Atividade em Grupo",
+      "description": "Práticas em destaque",
+      "content": [
+        {
+          "name": "Experimento: Luz e CO2",
+          "description": "Pares observam planta/folha sob condições de luz e registram previsão vs evidência.",
+          "duration": "15 minutes",
+          "grouping": "Pairs",
+          "purpose": "Conectar o modelo ao registro de evidências",
+          "expectedOutcome": "Tabela completa com previsão, observação e conclusão",
+          "teacherRole": "Facilitar e questionar sem dar a resposta",
+          "studentRole": "Prever, observar, registrar",
+          "materials": ["ficha", "planta/folha", "cronômetro"],
+          "possibleQuestions": [
+            "O que conta como evidência aqui?"
+          ],
+          "commonMistakes": [
+            "Concluir sem registrar observação"
+          ],
+          "recordingFormat": "table"
+        },
+        {
+          "name": "Desafio: Mito vs Fato",
+          "description": "Classificar afirmações sobre plantas como mito ou fato e justificar.",
+          "duration": "8 minutes",
+          "grouping": "Small group",
+          "purpose": "Atacar concepções erradas",
+          "expectedOutcome": "Lista marcada com 1 justificativa cada",
+          "teacherRole": "Mediar debate curto",
+          "studentRole": "Argumentar com o diagrama",
+          "materials": ["cartões mito/fato"],
+          "possibleQuestions": [
+            "Qual parte do diagrama apoia sua resposta?"
+          ],
+          "commonMistakes": [
+            "Usar opinião sem evidência"
+          ],
+          "recordingFormat": "notes"
+        },
+        {
+          "name": "Projeto: Fotossíntese no Cotidiano",
+          "description": "Relacionar uma planta do entorno da escola à produção de oxigênio.",
+          "duration": "10 minutes",
+          "grouping": "Individual",
+          "purpose": "Aplicar CTSA local",
+          "expectedOutcome": "2 frases com vocabulário-alvo",
+          "teacherRole": "Oferecer exemplos locais",
+          "studentRole": "Escrever e compartilhar",
+          "materials": ["caderno"],
+          "possibleQuestions": [
+            "Onde há mais plantas perto da escola?"
+          ],
+          "commonMistakes": [
+            "Esquecer de citar oxigênio ou glicose"
+          ],
+          "recordingFormat": "notes"
+        }
+      ]
+    },
+    "homework": {
+      "title": "Tarefa de Casa",
+      "description": "Extensão",
+      "content": [
+        {
+          "task": "Desenhar o diagrama da fotossíntese em casa e legendá-lo com as 5 palavras do glossário.",
+          "estimatedMinutes": 15,
+          "difficulty": "standard",
+          "optional": false,
+          "extension": false,
+          "communityInvestigation": false
+        },
+        {
+          "task": "Opcional: fotografar uma planta do bairro e escrever 1 frase sobre luz e oxigênio.",
+          "estimatedMinutes": 10,
+          "difficulty": "easy",
+          "optional": true,
+          "extension": true,
+          "communityInvestigation": true
+        }
+      ]
+    },
+    "assessment": {
+      "title": "Avaliação",
+      "description": "Verificar a compreensão",
+      "content": {
+        "diagnosticPrompt": "A planta se alimenta principalmente da terra, da água ou da luz? Por quê?",
+        "quickChecks": [
+          {
+            "id": "Q1",
+            "bloomLevel": "Understand",
+            "prompt": "Quais são as três entradas principais da fotossíntese?"
+          },
+          {
+            "id": "Q2",
+            "bloomLevel": "Apply",
+            "prompt": "Se a praça da escola perde árvores, o que pode mudar no ar local? Use a palavra oxigênio."
+          },
+          {
+            "id": "Q3",
+            "bloomLevel": "Analyze",
+            "prompt": "Um colega diz que plantas comem terra. Que evidência do diagrama você usaria para discordar?"
+          }
+        ],
+        "exitCheck": "Escreva uma frase: 'Hoje aprendi que as plantas…' citando clorofila ou glicose."
+      }
+    },
+    "keyConcepts": {
+      "title": "Conceitos-Chave",
+      "description": "Ideias centrais",
+      "content": [
+        "Fotossíntese produz alimento (glicose) e oxigênio",
+        "Clorofila captura luz nas folhas",
+        "Entradas: luz, H2O, CO2 — Saídas: O2, glicose"
+      ]
+    },
+    "rememberPoint": {
+      "title": "Pontos a Lembrar",
+      "description": "Fixação",
+      "content": [
+        "Terra não é o alimento principal",
+        "Sem luz, o processo enfraquece",
+        "Usar evidência ao explicar"
+      ]
+    },
+    "teachersNotes": {
+      "title": "Notas do Professor",
+      "description": "Dicas Magic AI",
+      "content": [
+        {
+          "type": "curriculum",
+          "text": "BNCC — Vida e evolução; objeto: plantas e necessidades básicas; habilidades descritivas (sem código inventado)."
+        },
+        {
+          "type": "misconception",
+          "text": "Observe se alunos ainda dizem que a planta 'come terra' após o diagrama."
+        },
+        {
+          "type": "tip",
+          "text": "Volte às hipóteses do aquecimento no consolidar — o contraste gera retenção."
+        },
+        {
+          "type": "evidence",
+          "text": "Evidências: diagrama, tabela do experimento, Q1–Q3 e exit check."
+        }
+      ]
+    },
+    "tools": {
+      "title": "Ferramentas",
+      "description": "Gerar a partir desta aula",
+      "content": [
+        {
+          "action": "slides",
+          "label": "Slides da Aula",
+          "hint": "Deck com objetivos, diagrama e quiz rápido"
+        },
+        {
+          "action": "worksheet",
+          "label": "Fichas de Exercícios",
+          "hint": "Ficha com diagrama e Q1–Q3"
+        },
+        {
+          "action": "diagram",
+          "label": "Diagrama Visual",
+          "hint": "Gerar imagem do diagrama anotado"
+        },
+        {
+          "action": "mindmap",
+          "label": "Mapa Mental",
+          "hint": "Expandir mapa PlantUML da aula"
+        },
+        {
+          "action": "video",
+          "label": "Vídeo Explicativo",
+          "hint": "Roteiro curto de vídeo IA"
+        },
+        {
+          "action": "simulation",
+          "label": "Simulação Interativa",
+          "hint": "Brief de simulação luz × oxigênio"
+        }
+      ]
+    },
+    "sourcesSummary": {
+      "byType": [
+        { "type": "educational_site", "count": 2 },
+        { "type": "textbook", "count": 1 }
+      ],
+      "items": [
+        {
+          "name": "Khan Academy — Plantas",
+          "type": "educational_site",
+          "url": null
+        },
+        {
+          "name": "NASA Climate Kids",
+          "type": "educational_site",
+          "url": null
+        },
+        {
+          "name": "Livro didático de Ciências 5º ano",
+          "type": "textbook",
+          "url": null
+        }
+      ]
+    },
+    "mindmap": {
+      "title": "Mapa Mental",
+      "description": "Visão geral",
+      "content": "@startmindmap\n* Fotossíntese\n** Entradas\n*** Luz\n*** H2O\n*** CO2\n** Folha\n*** Clorofila\n** Saídas\n*** O2\n*** Glicose\n** Cotidiano\n*** Árvores e ar\n@endmindmap"
+    }
+  }
+}
