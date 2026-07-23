@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port=5173 --host=0.0.0.0",
-    "build": "tsc -p tsconfig.json --noEmit && vite build",
+    "build": "npm run build -w @magicboard/schema && tsc -p tsconfig.json --noEmit && vite build",
     "preview": "vite preview",
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },

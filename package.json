@@ -7,10 +7,13 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "npm run dev -w @magicboard/api & npm run dev -w @magicboard/web",
+    "dev": "npm run dev -w @magicboard/api & npm run dev -w @magicboard/dashboard",
     "dev:api": "npm run dev -w @magicboard/api",
     "dev:web": "npm run dev -w @magicboard/web",
-    "build": "npm run build -w @magicboard/schema && npm run build -w @magicboard/api && npm run build -w @magicboard/web",
-    "typecheck": "npm run typecheck -w @magicboard/schema && npm run typecheck -w @magicboard/api && npm run typecheck -w @magicboard/web"
+    "dev:dashboard": "npm run dev -w @magicboard/dashboard",
+    "dev:magic": "npm run dev -w @magicboard/api & npm run dev -w @magicboard/dashboard",
+    "dev:legacy": "npm run dev -w @magicboard/api & npm run dev -w @magicboard/web",
+    "build": "npm run build -w @magicboard/schema && npm run build -w @magicboard/api && npm run build -w @magicboard/web && npm run build -w @magicboard/dashboard",
+    "typecheck": "npm run typecheck -w @magicboard/schema && npm run typecheck -w @magicboard/api && npm run typecheck -w @magicboard/web && npm run typecheck -w @magicboard/dashboard"
   }
 }
